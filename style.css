@@ -1,0 +1,70 @@
+body {
+	background: #caf;
+	margin-top: 60px;
+}
+
+header {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	color: #fac;
+	background: #afc;
+	font-size: 40px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+.header {
+	height: 50px;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 40px;
+	background-color: #fac;
+	color: #afc;
+	margin-bottom: 40px;
+}
+
+.subject {
+	font-size: 50px;
+}
+
+#features {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 40px;
+}
+
+#hiddenFeatures {
+display: flex;
+justify-content: space-around;
+padding-top: 40px;
+}
+
+.link:hover {
+	color: #fac;
+}
+
+.link:visited {
+	color: #00FF00;
+}
+
+.powerup {
+	font-size: 20px;
+}
+
+.powerupExplanation {
+	font-size: 10px;
+}
+
+.class {
+	font-size: 20px;
+}
+
+.classExplanation {
+	font-size: 10px;
+}
